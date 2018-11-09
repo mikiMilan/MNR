@@ -18,20 +18,20 @@
 
     1. [Прилагодљива хипермедија](/prezentacije/mnr02-2-Prilagodljiva hipermedija.pdf){:target="_blank"}
 
-    1. [Графика](/prezentacije/mnr02-3-Grafika.pdf){:target="_blank"}
+    1. [Графика](/prezentacije/mnr03-1-Grafika.pdf){:target="_blank"}
 
-    1. [Текст](/prezentacije/mnr02-4-Tekst.pdf){:target="_blank"}
+    1. [Текст](/prezentacije/mnr03-2-Tekst.pdf){:target="_blank"}
 
-    1. [Звук](/prezentacije/mnr02-5-Zvuk.pdf){:target="_blank"}
+    1. [Звук](/prezentacije/mnr03-3-Zvuk.pdf){:target="_blank"}
 
-    1. [Анимација](/prezentacije/mnr02-6-Animacija.pdf){:target="_blank"}
+    1. [Анимација](/prezentacije/mnr03-4-Animacija.pdf){:target="_blank"}
 
-    1. [Видео](/prezentacije/mnr02-7-Video.pdf){:target="_blank"}
+    1. [Видео](/prezentacije/mnr03-5-Video.pdf){:target="_blank"}
 
 1. Учење на даљину
 
-    1. [Комуникација и учење на даљину](/prezentacije/mnr03-1-Komunikacija i ucenje na daljinu.pdf){:target="_blank"}
+    1. [Комуникација и учење на даљину](/prezentacije/mnr04-1-Komunikacija i ucenje na daljinu.pdf){:target="_blank"}
 
-    1. [Хипермедија у образовању](/prezentacije/mnr03-2-Hipermedija u obazovanju.pdf){:target="_blank"}
+    1. [Хипермедија у образовању](/prezentacije/mnr04-2-Hipermedija u obazovanju.pdf){:target="_blank"}
 
 [почетна страна](../README.md)
