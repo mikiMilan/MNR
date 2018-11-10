@@ -1,0 +1,3 @@
+ZADACI ZA SAMOSTALAN RAD 3:
+
+2. Kreirati aproksimaciju povrsine kruga preko upisanog i opisanog mnogouga u krug. Koristiti komandu Polygon.

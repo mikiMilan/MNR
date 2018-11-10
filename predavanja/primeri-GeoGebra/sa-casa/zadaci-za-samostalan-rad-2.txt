@@ -1,0 +1,11 @@
+ZADACI ZA SAMOSTALAN RAD 2:
+
+1. Kreirati 5 slajdera a1, a2, a3, a4, a5 (sa vrednostima izmedju 0 i 30), koji predstavljaju broj ucenika koji su na kontrolnom zadatku dobili redom jedinice, dvojke, trojke, cetvorke i petice. Kreirati bar chart koji prikazuje rezultate graficki. Na grafiku dodati jednu uspravnu pravu koja predstavlja prosek.
+
+2. Kreirati animaciju koja iscrtava krug precnika r. r uneti preko komponente "input box", i dodati dugmice za pokretanje i zaustavljanje animacije.
+
+3. Kreirati animaciju tocka poluprecnika r koji se okrece. Privid okretanja treba postici sa n duzi koje se seku u centru tocka. Brojeve n i r definisati slajderom.
+
+4. 2. zadatak u kome se animacija pokrece i zaustavlja i unosi r preko html elemenata.
+
+5. 3. zadatak u kome se brojevi n i r definisu preko html elemenata.

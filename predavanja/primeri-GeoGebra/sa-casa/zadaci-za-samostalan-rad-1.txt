@@ -1,0 +1,33 @@
+ZADACI ZA SAMOSTALAN RAD 1:
+
+0. Skinuti verziju Geogebra softvera sa adrese http://www.geogebra.org/cms/en/portable ukoliko isti
+vec nije instaliran na fakultetskom racunaru. Za rad kod kuce, instalirati bilo koju verziju (klasicnu ili portabilnu)
+
+1. Naci teziste trougla
+	- potom: opisani krug, upisani krug, i ortocentar
+2. Podeliti duz u odnosu 4:6
+	- ubaciti klizac koji pomeranjem deli duz u svim mogucim odnosima sa zadatim korakom
+3. Sistem sa dve jednacine dve nepoznate
+	- naci presecnu tacku, isprobavati opcije rotacija oko tacke, prebaciti na parametarski oblik jednacine prave
+4. Kreirati funkciju f(x)  = 2*sin(x), a potom u tacki (0,f(0)) nacrtati tangentu
+	- dodati klizac koji pomera tacku u kojoj se crta tangenta od -5, ka 5
+	- potom postaviti da se klizac dinamicki pomera napred i nazad
+5. Uneti polinom treceg stepena: x^3 - 3 x^2 + 1
+	- naci nule funkcije, ekstremume, i prevojne tacke
+	- naci prvi i drugi izvod polinoma, i nacrtati ih na grafiku
+6. Za funkciju f(x) = x^2/4+2 naci gornju i donju sumu na intervalu [0,2] za n=5 koraka
+	- izracunati aproksimaciju vrednosti integrala koriscenjem ove dve sume
+	- omoguciti da se broj koraka postavlja pomocu klizaca, i posmatrati kako se menja aproksimirana vrednost
+	- naci pravu (analiticku) vrednost integrala na datom intervalu
+VEZBA
+7. Konstruisati jednakokraki trougao ako je ugao na osnovici ima 75 stepeni, a krak je duzine 7.
+8. Konstruisati pravougli troguao kome je duzina hipotenuze 7, a jedan ugao ima 75 stepeni.
+9. Konstruisati kvadrat cija je povrsina jednaka zbiru povrsine kvadrata cije su osnovice 5 i 12.
+10. Iz tacke P van kruznice k(O, 5) konstruisati tangente na kruzinicu koje je dodiruju u tackama A i B. Rastojeanje tacke P od tacko O iznosi 13.
+
+Domaci
+11. Izvrsiti izvoz svih zadataka na geogebra tube i kreirati geogebra knjigu. Naslov knjige treba da bude "Vase ime i prezime - 1. domaci zadatak". Knjigu moze da vidi drugi korisnik samo ako ima odgovarajuci link. Kreirati 2 poglavlja "zadaci sa casa" i "vezba". U prvo poglavlje potrebno je dodati zadatke 1-6, u drugo zadatke od 7-10.
+
+Na vasem sajtu kreirati html dokument: alas.matf.bg.ac.rs/ab12345/os.html, sa naslovom (h1) "Obrazovni softver - Vase ime i prezime i broj indeksa", ispod koga se nalazi link sa tekstom "prvi domaci zadatak", koji vodi na kreiranu geogebra knjigu.
+
+Zadatake student treba da resi do 31.10, okaci na alas, i da odbrani na nekom od narednih časova vežbi.

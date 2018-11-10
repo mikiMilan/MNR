@@ -22,6 +22,12 @@
 
   * Mertz D.:  [XML Matters, Comparing W3C XML Schemas and Document Type Definitions (DTDs)](https://www.ibm.com/developerworks/library/x-matters7/){:target="_blank"} - IBM
 
+* Књиге и упутства за GeoGebra
+
+  * Hohenwarter M, Hohenwarter J.: [Geogebra - pomoć](/predavanja/literatura/Hohenwarter M. - Geogebra pomoc, v 3.2.pdf){:target="_blank"}
+
+  [ГеоГебром кроз свет математике]](http://alas.matf.bg.ac.rs/~ml08060/kurs/pocetna.html}{:target="_blank"} - Геогебра центар Београд
+
 * Књиге и упутства за HTML
 
   * Марић Ф.: [Основни елементи веба - скрипта](/predavanja/literatura/Maric F. - Skripta veb.pdf){:target="_blank"}
