@@ -34,19 +34,19 @@
 
     1. [Хипермедија у образовању](/prezentacije/mnr04-2-Hipermedija u obazovanju.pdf){:target="_blank"}
 
-- [Примери Геогебра](/prezentacije/mnr04-2-Hipermedija u obazovanju.pdf){:target="_blank"}
+- [Примери Геогебра](https://github.com/PmfBlMNR/MNR/tree/master/predavanja/primeri-GeoGebra){:target="_blank"}
 
-- [Примери графика](/prezentacije/mnr04-2-Hipermedija u obazovanju.pdf){:target="_blank"}
+- [Примери графика](https://github.com/PmfBlMNR/MNR/tree/master/predavanja/primeri-grafika){:target="_blank"}
 
-- [Примери HTML](/prezentacije/mnr04-2-Hipermedija u obazovanju.pdf){:target="_blank"}
+- [Примери HTML](https://github.com/PmfBlMNR/MNR/tree/master/predavanja/primeri-html){:target="_blank"}
 
-- [Примери SVG](/prezentacije/mnr04-2-Hipermedija u obazovanju.pdf){:target="_blank"}
+- [Примери SVG](https://github.com/PmfBlMNR/MNR/tree/master/predavanja/primeri-SVG){:target="_blank"}
 
-- [Примери MathML](/prezentacije/mnr04-2-Hipermedija u obazovanju.pdf){:target="_blank"}
+- [Примери MathML](https://github.com/PmfBlMNR/MNR/tree/master/predavanja/primeri-MathML){:target="_blank"}
 
-- [Примери Word](/prezentacije/mnr04-2-Hipermedija u obazovanju.pdf){:target="_blank"}
+- [Примери Word](https://github.com/PmfBlMNR/MNR/tree/master/predavanja/primeri-word){:target="_blank"}
 
-- [Примери Excel](/prezentacije/mnr04-2-Hipermedija u obazovanju.pdf){:target="_blank"}
+- [Примери Excel](https://github.com/PmfBlMNR/MNR/tree/master/predavanja/primeri-excel){:target="_blank"}
 
 ---
 
