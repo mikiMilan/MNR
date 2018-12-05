@@ -26,15 +26,11 @@
 
   * Hohenwarter M, Hohenwarter J.: [Geogebra - pomoć](/predavanja/literatura/Hohenwarter M. - Geogebra pomoc, v 3.2.pdf){:target="_blank"}
 
-  [ГеоГебром кроз свет математике]](http://alas.matf.bg.ac.rs/~ml08060/kurs/pocetna.html}{:target="_blank"} - Геогебра центар Београд
+  * [ГеоГебром кроз свет математике](http://alas.matf.bg.ac.rs/~ml08060/kurs/pocetna.html}{:target="_blank"} - Геогебра центар Београд
 
 * Књиге и упутства за HTML
 
-  * Марић Ф.: [Основни елементи веба - скрипта](/predavanja/literatura/Maric F. - Skripta veb.pdf){:target="_blank"}
-
   * Pilgrim M.: [Dive into HTML5](http://diveinto.html5doctor.com){:target="_blank"}
-
-  * Хаџи-Пурић Ј.: [Основни елементи HTML-a](http://poincare.matf.bg.ac.rs/~jelenagr/op/htmlskola.htm){:target="_blank"}
 
   * [HTML Tutorial](https://www.w3schools.com/html/){:target="_blank"} - W3Schools
 

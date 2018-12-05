@@ -1,6 +1,6 @@
 # Информације о курсу -- Методика наставе рачунарства
 
-[ИП](../README.md)
+[МНР](../README.md)
 
 ## Наставници и асистенти  
 
@@ -8,9 +8,9 @@
 
 * Асистент: **[Милан Предојевић](http://www.unibl.org/fis/zaposlen/5960-milan-predojevic){:target="_blank"}**
 
-[comment]: # ## План и програм курса
+[comment]: # (* ## План и програм курса *)
 
-[comment]: # **[Званичан план и програм курса](Nastavni program Internet programiranje.pdf){:target="_blank"}**
+[comment]: # (* **[Званичан план и програм курса](Nastavni program Internet programiranje.pdf){:target="_blank"}** *)
 
 ## Термини за консултације у академској 2018/19 години
 
@@ -36,4 +36,4 @@
 
 *[Милан Предојевић](http://www.unibl.org/fis/zaposlen/5960-milan-predojevic){:target="_blank"}*
 
-[ИП](../README.md)
+[ИМНРП](../README.md)
