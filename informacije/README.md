@@ -8,9 +8,9 @@
 
 * Асистент: **[Милан Предојевић](http://www.unibl.org/fis/zaposlen/5960-milan-predojevic){:target="_blank"}**
 
-[comment]: # (* ## План и програм курса *)
+## План и програм курса
 
-[comment]: # (* **[Званичан план и програм курса](Nastavni program Internet programiranje.pdf){:target="_blank"}** *)
+**[Званичан план и програм курса](Program kursa MNR.pdf){:target="_blank"}** 
 
 ## Термини за консултације у академској 2018/19 години
 
