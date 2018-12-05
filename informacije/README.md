@@ -36,4 +36,4 @@
 
 *[Милан Предојевић](http://www.unibl.org/fis/zaposlen/5960-milan-predojevic){:target="_blank"}*
 
-[ИМНРП](../README.md)
+[МНР](../README.md)
