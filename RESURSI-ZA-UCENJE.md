@@ -1,6 +1,6 @@
 # МНР - Ресурси за учење  
 
-[почетна страна](/README.md)
+[МНР](/README.md)
 
 Овде су постављене везе према ресурсима за учење на вебу, који могу помоћи при учењу садржаја који се обрађују на курсу **Методика наставе рачунарства**.
 
@@ -48,4 +48,4 @@
 
   * [SEO Tutorial](http://www.tutorialspoint.com/seo/){:target="_blank"} - TutorialsPoint, [.pdf](/predavanja/literatura/TutorialsPoint SEO.pdf){:target="_blank"}
   
-[почетна страна](/README.md)
+[МНР](/README.md)
