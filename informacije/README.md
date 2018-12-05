@@ -22,7 +22,7 @@
 
 * [Предавања](../predavanja/info)
 
-* [Вежбе](../vezbe/info)
+* [Вјежбе](../vezbe/info)
 
 * [Семинарски радови](../seminarski-radovi/info)
 
