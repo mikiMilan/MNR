@@ -7,5 +7,6 @@
 ---
 
 **[Информације](info/README.md)**
+**[Литература](https://drive.google.com/open?id=0B2lUqfsGGE3IdHF2S0VlbXJ6bWs)**
 
 [МНР](../README.md)
